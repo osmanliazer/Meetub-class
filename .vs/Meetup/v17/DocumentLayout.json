@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\dal\\mtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\dal\\mtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.07\\desktop\\meetup\\meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{551EF619-70FD-4AE3-AB57-FA3E5BAEDA27}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Meetup\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Models\\Product.cs",
+              "RelativeToolTip": "Meetup\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:33:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T07:31:59.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T06:00:45.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:55:41.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:50:51.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowGEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:34:40.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MtContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\DAL\\MtContext.cs",
+              "RelativeDocumentMoniker": "Meetup\\DAL\\MtContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\DAL\\MtContext.cs",
+              "RelativeToolTip": "Meetup\\DAL\\MtContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:37:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Program.cs",
+              "RelativeDocumentMoniker": "Meetup\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\Meetup\\Meetup\\Program.cs",
+              "RelativeToolTip": "Meetup\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:15:09.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
